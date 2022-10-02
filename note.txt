@@ -1,2 +1,2 @@
-some times "random" text
+some "random" text
 also some "random" text
